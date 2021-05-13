@@ -39,6 +39,6 @@ University of Padova - Supervisor: Professor [Laura Ventura](https://homes.stat.
 Universitat Pompeu Fabra - Supervisor: Professor [David Rossell](https://sites.google.com/site/rosselldavid)
 
 ## Funding
-![EU emblem](/images/EU_logo_MSCA.png?style=centerme)
+![EU emblem](/images/EU_logo_MSCA.png)
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 101027218.
