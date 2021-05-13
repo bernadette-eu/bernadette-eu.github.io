@@ -43,7 +43,7 @@ Universitat Pompeu Fabra - Supervisor: Professor [David Rossell](https://sites.g
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 101027218.
 
-Fore more information, please visit the European Commission's Community Research and Development Information Service (CORDIS) [webpage](https://cordis.europa.eu/project/id/101027218).
+For more information, please visit the European Commission's Community Research and Development Information Service (CORDIS) [webpage](https://cordis.europa.eu/project/id/101027218).
 
 ## Useful sources
 
