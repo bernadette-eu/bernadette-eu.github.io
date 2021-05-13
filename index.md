@@ -37,3 +37,7 @@ University of Nottingham - Supervisor: Professor [Theodore Kypraios](https://www
 University of Padova - Supervisor: Professor [Laura Ventura](https://homes.stat.unipd.it/lauraventura/en)
 
 Universitat Pompeu Fabra - Supervisor: Professor [David Rossell](https://sites.google.com/site/rosselldavid)
+
+## Funding
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 101027218.
