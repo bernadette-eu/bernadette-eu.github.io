@@ -42,3 +42,12 @@ Universitat Pompeu Fabra - Supervisor: Professor [David Rossell](https://sites.g
 ![EU emblem](/images/EU_logo_MSCA.png)
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 101027218.
+
+Fore more information, please visit the European Commission's Community Research and Development Information Service (CORDIS) [webpage](https://cordis.europa.eu/project/id/101027218).
+
+## Useful sources
+
+*Marie Sklodowska-Curie Actions* - [Individual Fellowship programme](https://ec.europa.eu/research/mariecurieactions/)
+
+*Who was Marie Sklodowska Curie?* - [Biographical](https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/)
+
