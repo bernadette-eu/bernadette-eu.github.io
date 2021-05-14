@@ -3,6 +3,7 @@ Welcome to the BERNADETTE project website! Feel free to bookmark this to keep an
 ## Contact Details
 
 Email: bernadette.aueb AT gmail.com
+
 [Twitter profile](https://twitter.com/BernadetteMsca)
 
 ## About the project
