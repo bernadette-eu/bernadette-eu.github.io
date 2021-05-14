@@ -1,5 +1,10 @@
 Welcome to the BERNADETTE project website! Feel free to bookmark this to keep an eye on the project updates.
 
+## Contact Details
+
+Email: bernadette.aueb AT gmail.com
+[Twitter profile](https://twitter.com/BernadetteMsca)
+
 ## About the project
 
 The objective of this Marie Sklodowska-Curie Action (MSCA) is to develop novel statistical methodology for the modeling 
