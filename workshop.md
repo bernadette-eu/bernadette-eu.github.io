@@ -1,9 +1,9 @@
-# _Statistical modelling of epidemic outbreaks_
+# _Statistical modeling of epidemic outbreaks_
 
 ## About
 
 The workshop will take place in Athens, Greece, on 5 May 2023.
-The primary aim of this workshop is to facilitate a discussion of current research topics related to the Statistical modelling of epidemic outbreaks.
+The primary aim of this workshop is to facilitate a discussion of current research topics related to the Statistical modeling of epidemic outbreaks.
 It is aimed at Public Health policy makers, Epidemiologists, Statisticians, Data Scientists and students.
 
 ## Topics Included
