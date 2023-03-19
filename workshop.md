@@ -2,17 +2,7 @@
 
 ## About
 
-The workshop will take place in Athens, Greece, on 5 May 2023.
-The primary aim of this workshop is to facilitate a discussion of current research topics related to the Statistical modeling of epidemic outbreaks.
-It is aimed at Public Health policy makers, Epidemiologists, Statisticians, Data Scientists and students.
-
-## Topics Included
-
-1. Epidemic Modeling and Surveillance
-
-2. Statistical Methods for Epidemiology 
-
-3. COVID-19 Analytics
+The workshop will take place on 5 May 2023 at the Department of Statistics, Athens University of Economics and Business, Athens, Greece. The primary aim of this workshop is to facilitate a discussion of current research topics related to the Statistical modeling of epidemic outbreaks. It is aimed at Public Health policy makers, Epidemiologists, Statisticians and Data Scientists, as well as students working in these areas.
 
 ## Speakers
 
@@ -28,21 +18,21 @@ It is aimed at Public Health policy makers, Epidemiologists, Statisticians, Data
 
 ## Program
 
-**09:30-10:15** Talk 1
+**09:30-10:15** Nial Friel
 
-**10:15-11:00** Talk 2
+**10:15-11:00** Vana Sypsa
 
-**11:00-11:45** Talk 3
+**11:00-11:45** Marc Baguelin
 
 **11:45-12:15** Break
 
-**12:15-13:00** Talk 4
+**12:15-13:00** Theodore Kypraios
 
-**13:00-13:45** Talk 5
+**13:00-13:45** Lampros Bouranis
 
 ## Location
 
-Trias Building, Athens university of Economics and Business [[Map]](https://www.google.com/maps/place/Athens+University+of+Economics+and+Business+-+Troias+Building/@37.9961245,23.7354101,18z/data=!4m6!3m5!1s0x14a1a2cbc98ba509:0x428f0476b1f81001!8m2!3d37.9958062!4d23.7361203!16s%2Fg%2F11gbxbsvxb)
+Auditorium, Trias Building, Athens university of Economics and Business [[Map]](https://www.google.com/maps/place/Athens+University+of+Economics+and+Business+-+Troias+Building/@37.9961245,23.7354101,18z/data=!4m6!3m5!1s0x14a1a2cbc98ba509:0x428f0476b1f81001!8m2!3d37.9958062!4d23.7361203!16s%2Fg%2F11gbxbsvxb)
 
 Trias 2, Athens, 113 62
 
@@ -53,9 +43,10 @@ Trias 2, Athens, 113 62
 **Twitter profile:** [BernadetteMsca](https://twitter.com/BernadetteMsca)
 
 ## Organising/Scientific committee
-[Nikolaos Demiris](https://www2.aueb.gr/users/nikos/) (Athens University of Economics and Business)
 
 [Lampros Bouranis](https://lamprosbouranis.github.io/) (Athens University of Economics and Business)
+
+[Nikolaos Demiris](https://www2.aueb.gr/users/nikos/) (Athens University of Economics and Business)
 
 ## Funding
 ![EU emblem](/images/EU_logo_MSCA.png)
