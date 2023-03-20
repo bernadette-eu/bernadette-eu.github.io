@@ -4,6 +4,8 @@
 
 The workshop will take place on 5 May 2023 at the Department of Statistics, Athens University of Economics and Business, Athens, Greece. The primary aim of this workshop is to facilitate a discussion of current research topics related to the Statistical modeling of epidemic outbreaks. It is aimed at Public Health policy makers, Epidemiologists, Statisticians and Data Scientists, as well as students working in these areas.
 
+The workshop is open to all, but participants who whish to attend should email us at bernadette.aueb@gmail.com for catering purposes.
+
 ## Speakers
 
 [Marc Baguelin](https://www.imperial.ac.uk/people/m.baguelin) (Imperial College London & London of Hygiene and Tropical Medicine)
