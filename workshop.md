@@ -10,7 +10,7 @@ The workshop is open to all, but participants who whish to attend should email u
 
 [Marc Baguelin](https://www.imperial.ac.uk/people/m.baguelin) (Imperial College London & London of Hygiene and Tropical Medicine)
 
-[Angelos Alexopoulos](https://www.aueb.gr/en/faculty_page/aggelos-alexopoylos) (Athens University of Economics and Business)
+[Angelos Alexopoulos](https://www.aueb.gr/el/faculty_page/aggelos-alexopoylos) (Athens University of Economics and Business)
 
 [Theodore Kypraios](https://www.maths.nottingham.ac.uk/plp/pmztk/) (University of Nottingham)
 
