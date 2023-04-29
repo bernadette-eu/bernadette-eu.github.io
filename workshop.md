@@ -4,13 +4,13 @@
 
 The workshop will take place on 5 May 2023 at the Department of Statistics, Athens University of Economics and Business, Athens, Greece. The primary aim of this workshop is to facilitate a discussion of current research topics related to the Statistical modeling of epidemic outbreaks. It is aimed at Public Health policy makers, Epidemiologists, Statisticians and Data Scientists, as well as students working in these areas.
 
-The workshop is open to all, but participants who whish to attend should email us at bernadette.aueb@gmail.com for catering purposes.
+The workshop is open to all, but participants who whish to attend should email us at bernadette.aueb AT gmail.com for catering purposes.
 
 ## Speakers
 
 [Marc Baguelin](https://www.imperial.ac.uk/people/m.baguelin) (Imperial College London & London of Hygiene and Tropical Medicine)
 
-[Nial Friel](https://maths.ucd.ie/~nial/) (University College Dublin)
+[Angelos Alexopoulos](https://www.aueb.gr/en/faculty_page/aggelos-alexopoylos) (Athens University of Economics and Business)
 
 [Theodore Kypraios](https://www.maths.nottingham.ac.uk/plp/pmztk/) (University of Nottingham)
 
@@ -20,7 +20,7 @@ The workshop is open to all, but participants who whish to attend should email u
 
 ## Program
 
-**09:30-10:15** Nial Friel
+**09:30-10:15** Angelos Alexopoulos
 
 **10:15-11:00** Vana Sypsa
 
@@ -30,7 +30,7 @@ The workshop is open to all, but participants who whish to attend should email u
 
 **12:15-13:00** Theodore Kypraios
 
-**13:00-13:45** Lampros Bouranis
+**13:00-13:45** Lampros Bouranis, _Bayesian analysis of diffusion-driven multi-type epidemic models with application to COVID-19_
 
 ## Location
 
