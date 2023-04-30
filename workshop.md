@@ -28,7 +28,7 @@ The workshop is open to all, but participants who whish to attend should email u
 
 **11:45-12:15** Break
 
-**12:15-13:00** Theodore Kypraios
+**12:15-13:00** Theodore Kypraios, _Bayesian Non-Parametrics for Stochastic Infectious Disease Models_
 
 **13:00-13:45** Lampros Bouranis, _Bayesian analysis of diffusion-driven multi-type epidemic models with application to COVID-19_
 
