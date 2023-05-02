@@ -22,9 +22,9 @@ The workshop is open to all, but participants who whish to attend should email u
 
 **09:30-10:15** Marc Baguelin
 
-**10:15-11:00** Vana Sypsa
+**10:15-11:00** Vana Sypsa, _Modelling transmission and control of infectious diseases: From HIV and antibiotic resistant bacteria to SARS-CoV-2_
 
-**11:00-11:45** Angelos Alexopoulos 
+**11:00-11:45** Angelos Alexopoulos, _Evaluating the impact of local tracing partnerships on the performance of contact tracing for COVID-19 in England_
 
 **11:45-12:15** Break
 
