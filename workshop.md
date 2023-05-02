@@ -20,7 +20,7 @@ The workshop is open to all, but participants who whish to attend should email u
 
 ## Program
 
-**09:30-10:15** Marc Baguelin
+**09:30-10:15** Marc Baguelin, _Models and evidence synthesis for policy making_
 
 **10:15-11:00** Vana Sypsa, _Modelling transmission and control of infectious diseases: From HIV and antibiotic resistant bacteria to SARS-CoV-2_
 
