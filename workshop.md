@@ -20,11 +20,11 @@ The workshop is open to all, but participants who whish to attend should email u
 
 ## Program
 
-**09:30-10:15** Angelos Alexopoulos
+**09:30-10:15** Marc Baguelin
 
 **10:15-11:00** Vana Sypsa
 
-**11:00-11:45** Marc Baguelin
+**11:00-11:45** Angelos Alexopoulos 
 
 **11:45-12:15** Break
 
