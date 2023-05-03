@@ -26,7 +26,7 @@ The workshop is open to all, but participants who wish to attend should email us
 
 **11:00-11:45** Angelos Alexopoulos, _Evaluating the impact of local tracing partnerships on the performance of contact tracing for COVID-19 in England_
 
-**11:45-12:15** Break
+**11:45-12:15** Break1
 
 **12:15-13:00** Theodore Kypraios, _Bayesian Non-Parametrics for Stochastic Infectious Disease Models_
 
