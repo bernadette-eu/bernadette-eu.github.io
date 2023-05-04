@@ -24,7 +24,7 @@ The workshop is open to all, but participants who wish to attend should email us
 
 **10:15-11:00** Vana Sypsa, _Modelling transmission and control of infectious diseases: From HIV and antibiotic resistant bacteria to SARS-CoV-2_
 
-**11:00-11:45** Angelos Alexopoulos, _Evaluating the impact of local tracing partnerships on the performance of contact tracing for COVID-19 in England_
+**11:00-11:45** Angelos Alexopoulos, _A Bayesian multivariate factor analysis model for causal inference using time-series observational data on mixed outcomes_
 
 **11:45-12:15** Break
 
