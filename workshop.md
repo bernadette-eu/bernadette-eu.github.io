@@ -20,17 +20,17 @@ The workshop is open to all, but participants who wish to attend should email us
 
 ## Program
 
-**09:30-10:15** Marc Baguelin, _Models and evidence synthesis for policy making_
+**09:30-10:15** Marc Baguelin, _Models and evidence synthesis for policy making_ [[slides]](/workshop_talks/Baguelin.pdf)
 
-**10:15-11:00** Vana Sypsa, _Modelling transmission and control of infectious diseases: From HIV and antibiotic resistant bacteria to SARS-CoV-2_
+**10:15-11:00** Vana Sypsa, _Modelling transmission and control of infectious diseases: From HIV and antibiotic resistant bacteria to SARS-CoV-2_ [[slides]](/workshop_talks/Sypsa.pdf)
 
-**11:00-11:45** Angelos Alexopoulos, _A Bayesian multivariate factor analysis model for causal inference using time-series observational data on mixed outcomes_
+**11:00-11:45** Angelos Alexopoulos, _A Bayesian multivariate factor analysis model for causal inference using time-series observational data on mixed outcomes_ [[slides]](/workshop_talks/Alexopoulos.pdf)
 
 **11:45-12:15** Break
 
-**12:15-13:00** Theodore Kypraios, _Bayesian Non-Parametrics for Stochastic Infectious Disease Models_
+**12:15-13:00** Theodore Kypraios, _Bayesian Non-Parametrics for Stochastic Infectious Disease Models_ [[slides]](/workshop_talks/Kypraios.pdf)
 
-**13:00-13:45** Lampros Bouranis, _Bayesian analysis of diffusion-driven multi-type epidemic models with application to COVID-19_
+**13:00-13:45** Lampros Bouranis, _Bayesian analysis of diffusion-driven multi-type epidemic models with application to COVID-19_ [[slides]](/workshop_talks/Bouranis.pdf)
 
 ## Location
 
