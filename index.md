@@ -1,5 +1,53 @@
 Welcome to the BERNADETTE project website! Feel free to bookmark this to keep an eye on the project updates.
 
+## Updates
+
+### 2023
+
+#### July 
+
+* Lampros Bouranis will be presenting his work on _Bayesian learning of transmission dynamics using exchangeable Gaussian processes_ at the Greek Stochastics $\nu$' Meeting at Naxos, Greece [7-10 July].
+
+#### June
+
+* **New preprint!** - **Bouranis, L.** (2023). Bernadette: Bayesian Inference and Model Selection for Stochastic Epidemics in R \
+  [JOSS preprint](https://github.com/openjournals/joss-reviews/issues/5541)
+
+* **Software announcement** - The Bernadette (“Bayesian inference and model selection for stochastic epidemics”) R package v1.1.4 is now available on the Comprehensive R Archive Network (CRAN), see the package [webpage](https://CRAN.R-project.org/package=Bernadette). Bernadette provides a framework for Bayesian analysis of infectious disease transmission dynamics via diffusion driven multi-type epidemic models with time-varying epidemiological parameters, with a particular focus on Coronavirus Disease 2019 (COVID-19). It uses the Stan probabilistic programming language and implements the Bayesian epidemic model described in [Bouranis et al](https://arxiv.org/abs/2211.15229). For models fit using Markov chain Monte Carlo, it allows for computation of approximate leave-one-out cross-validation (LOO, LOOIC) or the Widely Applicable Information Criterion (WAIC) for model checking and comparison.
+\
+The [dev branch](https://github.com/bernadette-eu/Bernadette/tree/dev) of the Bernadette Github repository contains a Shiny application which can be activated from the package, aiming to visualize the posterior model outputs.
+
+* Lampros Bouranis presented his work at the MRC Biostatistics Unit, University of Cambridge seminar. The talk is available at the MRC BSU [YouTube channel](https://www.youtube.com/@MRC_BSU/videos).
+
+* Lampros Bouranis presented his work at the HERMES Ph.D. Workshop 2023: “Data Science in Business”, which took place in Athens, Greece, at the premises of the Department of Statistics, AUEB.
+
+#### May
+
+* **Workshop!** - [Nikolaos Demiris](http://www2.aueb.gr/users/nikos/) and Lampros Bouranis organized the workshop _Statistical modeling of epidemic outbreaks_ with a fantastic series of talks. A big thank you to our guests who honoured us with their presence! For more information you can visit the [workshop webpage](https://bernadette-eu.github.io/workshop).
+
+* Lampros Bouranis and Prof Ioannis Ntzoufras visited the 1st Senior High School of Markopoulo, participating in the Action "Visits of faculty members to secondary education schools" of the program "Outreach and information program for the school community", where they presented and discussed the merits of studying at the Department of Statistics at AUEB and career opportunities.
+
+#### February
+
+Lampros Bouranis participated in the Action "Visits of faculty members to secondary education schools" of the program "Outreach and information program for the school community", organised by the Department of Statistics, Athens University of Economics and Business (AUEB). Students of the senior high school "Nea Pedia" visited the Computational and Bayesian Statistics Laboratory (Troias Building) at the premises of AUEB. Together with Prof Ioannis Ntzoufras, and PhD candidate Ilias Leriou we discussed our experiences as statisticians, the benefits of studying Science. Lampros also presented how the Marie Curie action’s work relates to our everyday lives.
+
+### 2022
+
+#### November
+* **New preprint!** - **Bouranis, L.**, Demiris, N., Kalogeropoulos, K. and Ntzoufras, I. (2022). 
+\
+**Bayesian analysis of diffusion-driven multi-type epidemic models with application to COVID-19**. \
+[arXiv](https://arxiv.org/abs/2211.15229)
+
+#### October
+This summer Lampros Bouranis presented his work on "Bayesian analysis of diffusion driven multi-type
+epidemic models with application to COVID-19" (joint with Nikos Demiris, Konstantinos Kalogeropoulos and Ioannis Ntzoufras) at the following conferences/meetings:
+
+* Royal Statistical Society International Conference, Aberdeen, UK (September 2022).
+* Greek Stochastics $\mu$' Meeting at Corfu, Greece (August 2022).
+* AUEB-NKUA-Indiana Conference in Biostatistics & Health Analytics, Aegina, Greece (July 2022).
+* 3rd research meeting of the School of Information Sciences and Technology, Athens University of Economics and Business, Greece (June 2022).
+
 ## Contact Details
 
 **Email:** bernadette.aueb AT gmail.com
