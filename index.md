@@ -4,6 +4,13 @@ Welcome to the BERNADETTE project website! Feel free to bookmark this to keep an
 
 ### 2023
 
+##### September
+
+* **New publication!** -- **Bouranis, L.** (2023). \
+Bernadette: Bayesian Inference and Model Selection for Stochastic Epidemics in R. \
+*Journal of Open Source Software*, 8(89): 5612. DOI: 10.21105/joss.05612
+[Link](https://joss.theoj.org/papers/10.21105/joss.05612)
+
 #### July 
 
 * Lampros Bouranis will be presenting his work on _Bayesian learning of transmission dynamics using exchangeable Gaussian processes_ at the Greek Stochastics $\nu$' Meeting at Naxos, Greece [7-10 July].
@@ -11,7 +18,7 @@ Welcome to the BERNADETTE project website! Feel free to bookmark this to keep an
 #### June
 
 * **New preprint!** - **Bouranis, L.** (2023). Bernadette: Bayesian Inference and Model Selection for Stochastic Epidemics in R \
-  [JOSS preprint](https://github.com/openjournals/joss-reviews/issues/5541)
+  [JOSS preprint](https://github.com/openjournals/joss-reviews/issues/5612)
 
 * **Software announcement** - The Bernadette (“Bayesian inference and model selection for stochastic epidemics”) R package v1.1.4 is now available on the Comprehensive R Archive Network (CRAN), see the package [webpage](https://CRAN.R-project.org/package=Bernadette). Bernadette provides a framework for Bayesian analysis of infectious disease transmission dynamics via diffusion driven multi-type epidemic models with time-varying epidemiological parameters, with a particular focus on Coronavirus Disease 2019 (COVID-19). It uses the Stan probabilistic programming language and implements the Bayesian epidemic model described in [Bouranis et al](https://arxiv.org/abs/2211.15229). For models fit using Markov chain Monte Carlo, it allows for computation of approximate leave-one-out cross-validation (LOO, LOOIC) or the Widely Applicable Information Criterion (WAIC) for model checking and comparison.
 \
